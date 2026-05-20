@@ -101,12 +101,12 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "Standard Single Bin", price: "$29", imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg?_wi=2" },
-        { id: "p2", name: "Dual Bin Standard", price: "$45", imageSrc: "http://img.b2bpic.net/free-photo/young-asian-man-put-his-credit-card-removes-cash-from-green-atm_627829-1126.jpg" },
-        { id: "p3", name: "Monthly Maintenance", price: "$79", imageSrc: "http://img.b2bpic.net/free-photo/truck-driver-putting-gloves-remove-vehicle-tarpaulin-unloading_342744-1295.jpg" },
-        { id: "p4", name: "Quarterly Deep Clean", price: "$120", imageSrc: "http://img.b2bpic.net/free-photo/kid-throwing-plastic-bottle-recycle-bin_23-2148472408.jpg" },
-        { id: "p5", name: "Annual Total Care", price: "$350", imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-cleaning-staircase-handrail-gloves_176474-2816.jpg" },
-        { id: "p6", name: "Move-In Special", price: "$55", imageSrc: "http://img.b2bpic.net/free-photo/plastic-trash-can-white-background_1387-149.jpg" },
+        { id: "p1", name: "Standard Single Bin", price: "R290", imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg?_wi=2" },
+        { id: "p2", name: "Dual Bin Standard", price: "R450", imageSrc: "http://img.b2bpic.net/free-photo/young-asian-man-put-his-credit-card-removes-cash-from-green-atm_627829-1126.jpg" },
+        { id: "p3", name: "Monthly Maintenance", price: "R790", imageSrc: "http://img.b2bpic.net/free-photo/truck-driver-putting-gloves-remove-vehicle-tarpaulin-unloading_342744-1295.jpg" },
+        { id: "p4", name: "Quarterly Deep Clean", price: "R1200", imageSrc: "http://img.b2bpic.net/free-photo/kid-throwing-plastic-bottle-recycle-bin_23-2148472408.jpg" },
+        { id: "p5", name: "Annual Total Care", price: "R3500", imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-cleaning-staircase-handrail-gloves_176474-2816.jpg" },
+        { id: "p6", name: "Move-In Special", price: "R550", imageSrc: "http://img.b2bpic.net/free-photo/plastic-trash-can-white-background_1387-149.jpg" },
       ]}
       title="Our Cleaning Packages"
       description="Choose the best plan for your household needs."
