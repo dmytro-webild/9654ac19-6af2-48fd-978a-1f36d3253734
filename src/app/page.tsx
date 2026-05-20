@@ -71,7 +71,7 @@ export default function LandingPage() {
         },
       ]}
       tagIcon={Sparkles}
-      imageSrc="http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg?_wi=1"
       imageAlt="professional trash bin cleaning service"
     />
   </div>
@@ -117,7 +117,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg?_wi=2",
           imageAlt: "eco friendly cleaning supplies",
         },
         {
@@ -159,7 +159,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/greetings-joyful-man-woman-standing-with-back-camera-shaking-hands_259150-58289.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/greetings-joyful-man-woman-standing-with-back-camera-shaking-hands_259150-58289.jpg?_wi=1",
           imageAlt: "eco friendly cleaning supplies",
         },
       ]}
@@ -179,7 +179,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Standard Single Bin",
           price: "$29",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-servant-doing-chores-around-house_23-2149508102.jpg?_wi=3",
         },
         {
           id: "p2",
@@ -230,7 +230,7 @@ export default function LandingPage() {
           role: "Client",
           company: "Local Resident",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/greetings-joyful-man-woman-standing-with-back-camera-shaking-hands_259150-58289.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/greetings-joyful-man-woman-standing-with-back-camera-shaking-hands_259150-58289.jpg?_wi=2",
         },
         {
           id: "2",
