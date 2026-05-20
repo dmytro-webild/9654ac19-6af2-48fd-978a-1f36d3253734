@@ -45,7 +45,7 @@ export default function LandingPage() {
       <HeroBillboardScroll
       background={{ variant: "gradient-bars" }}
       title="Professional Bin Cleaning at Your Doorstep"
-      description="We sanitize, deodorize, and scrub your trash bins so you don't have to. Enjoy a fresh-smelling home environment today."
+      description="We sanitize, deodorize, and scrub your trash bins so you don't have to. Enjoy a fresh-smelling home environment today. Questions? Call us at 0789007921."
       tag="Trusted Local Experts"
       buttons={[{ text: "Book Now", href: "#contact" }]}
       tagIcon={Sparkles}
@@ -157,7 +157,7 @@ export default function LandingPage() {
       background={{ variant: "plain" }}
       tag="Ready to Get Started?"
       title="Schedule Your Wash Now"
-      description="Take the first step toward a cleaner home environment. Book your appointment today."
+      description="Take the first step toward a cleaner home environment. Call us at 0789007921 to book your appointment today."
       buttons={[{ text: "Contact Us", href: "#contact" }]}
     />
   </div>
@@ -173,7 +173,7 @@ export default function LandingPage() {
         },
       ]}
       bottomLeftText="© 2024 Bin Wash Originals"
-      bottomRightText="Licensed and Insured"
+      bottomRightText="Call us: 0789007921"
     />
   </div>
       </ReactLenis>
